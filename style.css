@@ -1,0 +1,26 @@
+body{
+    background-color:lightsteelblue ;
+    background-image: linear-gradient(90deg, white, #2eacd4);
+    font-family: Sans-Serif;
+}
+.button{
+    background-color: whitesmoke;
+    width: 100px;
+    height: 45px;
+    border-radius: 20px;
+    border-color: skyblue;
+}
+.smallerButton{
+    background-color: whitesmoke;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border-color: skyblue;
+}
+.largeButton{
+    background-color: whitesmoke;
+    width: 150px;
+    height: 60px;
+    border-radius: 20px;
+    border-color: skyblue;
+}
